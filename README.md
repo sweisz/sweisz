@@ -5,7 +5,7 @@
 
 -   🔭 I’m currently working on [Guitar Chords](https://github.com/sweisz/guitar-chords)
 
--   🌱 I’m currently learning **JavaScript, React, TypeScript**
+-   🌱 I’m currently learning **JavaScript, React, TypeScript, Angular**
 
 -   💬 Ask me about **Art**
 
