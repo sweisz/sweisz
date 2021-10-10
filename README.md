@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweisz&label=Profile%20views&color=0e75b6&style=flat" alt="sweisz" /> </p>
 
--   🔭 I’m currently working on [Guitar Chords](https://github.com/sweisz/guitar-chords)
-
 -   🌱 I’m currently learning **JavaScript, React, TypeScript, Angular**
 
 -   💬 Ask me about **Art**
